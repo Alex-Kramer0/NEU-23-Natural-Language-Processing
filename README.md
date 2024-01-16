@@ -14,15 +14,11 @@ components of NLP systems.
 Expect a heavy emphasis on data, how systems are deployed in the real world, and engaging in critical
 thought about provided reading materials.
 
-NLP is not just generative AI, and you can expect a significant fraction of this course to inspect other aspects
-of NLP (even though we'll cover generative AI models like ChatGPT, GPT-3, GPT-4, etc).
-
 ## Course Goals
-1. Develop an understanding of the general problems that people who work on NLP study and the
+- Develop an understanding of the general problems that people who work on NLP study and the
 strategies they use to solve them.
-2. Understand the role of data, machine learning, and neural networks in NLP systems.
-3. Understand the ethical considerations and potentials for bias in NLP systems.
-4. Be able to implement models to solve some "standard" NLP problems.
-5. Be able to formulate potential starting points given a new problem with NLP elements.
-6. Understand some of the motivating linguistic phenomena that make NLP problems hard and why these
-can be hard phenomena for computers to approach.
+- Understand the role of data, machine learning, and neural networks in NLP systems.
+- Understand the ethical considerations and potentials for bias in NLP systems.
+- Be able to implement models to solve some "standard" NLP problems.
+- Be able to formulate potential starting points given a new problem with NLP elements.
+- Understand some of the motivating linguistic phenomena that make NLP problems hard and why these can be hard phenomena for computers to approach.
