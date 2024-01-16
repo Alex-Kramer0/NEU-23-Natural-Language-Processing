@@ -1,5 +1,4 @@
-# NLP
-Natural Language Processing
+# Natural Language Processing (NLP)
 
 ## Course Overview
 NLP is about getting computers to perform useful and interesting tasks involving spoken and written human
